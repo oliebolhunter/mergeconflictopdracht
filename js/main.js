@@ -10,7 +10,7 @@ function basicHaiku()
 
 }
 
-<<<<<<< HEAD
+
 function Haikustudent2(){
     console.log("haiku by:","Emanuel");
     console.log("The wren Earns his living Noiselessly.");
@@ -21,7 +21,7 @@ function Haikustudent2(){
 
 
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
-=======
+
 function Haikustudent1(){
     console.log("haiku by:","Angelee Deodhar");
     console.log("Stars adrift");
@@ -30,7 +30,7 @@ function Haikustudent1(){
 }
 
     //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
->>>>>>> main
+
 
 haikus = [
     basicHaiku()
