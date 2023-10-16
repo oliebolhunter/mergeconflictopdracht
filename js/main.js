@@ -7,8 +7,10 @@ oldgreeting.greet()
 function basicHaiku()
 {
     return ["Toward those short trees","We saw a batman descending","ik eet een broodje"]
+
 }
 
+<<<<<<< HEAD
 function Haikustudent2(){
     console.log("haiku by:","Emanuel");
     console.log("The wren Earns his living Noiselessly.");
@@ -19,6 +21,16 @@ function Haikustudent2(){
 
 
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
+=======
+function Haikustudent1(){
+    console.log("haiku by:","Angelee Deodhar");
+    console.log("Stars adrift");
+    console.log("In the chill of night");
+    console.log("The last dairy entry");
+}
+
+    //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
+>>>>>>> main
 
 haikus = [
     basicHaiku()
