@@ -8,6 +8,16 @@ function basicHaiku()
 {
     return ["Toward those short trees","We saw a batman descending","ik eet een broodje"]
 }
+
+function Haikustudent2(){
+    console.log("haiku by:","Emanuel");
+    console.log("The wren Earns his living Noiselessly.");
+    console.log("Consider me As one who loved poetry And persimmons.");
+    console.log("Blowing from the west Fallen leaves gather In the east.");
+}
+
+
+
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
 haikus = [
