@@ -1,11 +1,8 @@
  function greet()
 {
- let greeting="hello welcome to this exersise!";
+    let greeting="hello welcome to this exersise!";
+    console.log(greetings);
  
-    console.log(hallo);
 }
    
-
-
-
 module.exports = {greet};
