@@ -9,7 +9,15 @@ function basicHaiku()
     return ["Toward those short trees","We saw a batman descending","ik eet een broodje"]
 
 }
-//zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
+
+function Haikustudent1(){
+    console.log("haiku by:","Angelee Deodhar");
+    console.log("Stars adrift");
+    console.log("In the chill of night");
+    console.log("The last dairy entry");
+}
+
+    //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
 haikus = [
     basicHaiku()
