@@ -1,7 +1,7 @@
  function greet()
 {
     let greeting="hello welcome to this exersise!";
-    console.log(hallo hoe gaat het?);
+    console.log(greetings);
 }
 
 module.exports = {greet};
